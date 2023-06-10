@@ -28,6 +28,13 @@ This is the series of python projects.
   ### > QR_Code Generator
   #### This code can be used as to generate QR Code of any link or string. In this project I have used qrcode library of Python.
   #### The sample QR code image is also available.
+  
+  
+   ### > QR_Code Generator 2.0
+  #### This code can be used as to generate QR Code of any link or string. In this project I have used qrcode library of Python.
+  #### This is the advance way to generate a QR code. We can add background color, border , fill color or any custom design using this code.
+  #### This QR code image is also available.
+  
 
 
 
