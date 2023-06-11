@@ -30,10 +30,14 @@ This is the series of python projects.
   #### The sample QR code image is also available.
   
   
-   ### > QR_Code Generator 2.0
+  ### > QR_Code Generator 2.0
   #### This code can be used as to generate QR Code of any link or string. In this project I have used qrcode library of Python.
   #### This is the advance way to generate a QR code. We can add background color, border , fill color or any custom design using this code.
   #### This QR code image is also available.
+  
+  
+  ### > Typing Speed Calculator
+  #### This code can be used as to test the typing speed.
   
 
 
