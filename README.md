@@ -38,6 +38,7 @@ This is the series of python projects.
   
   ### > Typing Speed Calculator
   #### This code can be used as to test the typing speed.
+   #### This project is done by using time and random module.
   
 
 
