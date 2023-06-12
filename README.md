@@ -38,8 +38,12 @@ This is the series of python projects.
   
   ### > Typing Speed Calculator
   #### This code can be used as to test the typing speed.
-   #### This project is done by using time and random module.
+  #### This project is done by using time and random module.
   
+  
+  ### > Internate Speed Calculator
+  #### This code can be used as to test the Internate Downloading/Uploading speed.
+  #### It is a graphical user Interface project using Tkinter module of python.
 
 
 
