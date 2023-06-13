@@ -44,6 +44,12 @@ This is the series of python projects.
   ### > Internate Speed Calculator
   #### This code can be used as to test the Internate Downloading/Uploading speed.
   #### It is a graphical user Interface project using Tkinter module of python.
+  #### It is a GUI based project made by Tkinter module of Python.
+  
+  
+  ### > Shut Down App
+  #### This is the GUI based shut down app.
+  #### You can Shut Down, Log Out, Restart and Timer Restart using this app.
 
 
 
