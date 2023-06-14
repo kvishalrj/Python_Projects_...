@@ -54,6 +54,7 @@ This is the series of python projects.
 
   ### > Text To Handwriting
   #### This code can be used as to convert text into handwriting with any color.
+   #### By default the color of handwritten text is blue.
 
 
 
