@@ -57,5 +57,10 @@ This is the series of python projects.
   #### By default the color of handwritten text is blue.
 
 
+  ### > Shut Down App
+  #### This is the shut down app that is used to shut down, log out, restart the laptop.
+  #### This is the GUI based application made by using Python
+
+
 
 
