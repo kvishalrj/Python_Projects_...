@@ -62,5 +62,10 @@ This is the series of python projects.
   #### This is the GUI based application made by using Python
 
 
+  ### > Desktop Notifier
+  #### This is the desktop notifier app that are used to make custom notification in given interval.
+  #### We can also add time interval and icon for the notification.
+
+
 
 
