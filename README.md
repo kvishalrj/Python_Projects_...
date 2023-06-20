@@ -67,5 +67,9 @@ This is the series of python projects.
   #### We can also add time interval and icon for the notification.
 
 
+  ### > Phone Number Checker
+  #### This code is used to check the status of Phone Number that tells you about the Telicom Provider, Time Zone and Area.
+
+
 
 
