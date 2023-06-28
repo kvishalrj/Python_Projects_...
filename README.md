@@ -74,6 +74,11 @@ This is the series of python projects.
   ### > YouTube Video Downloader
   #### This code is used to download the YouTube video by putting the link of video in code.
   #### You can download all format of video available on YouTube.
+  
+
+  ### > YouTube Playlist Downloader
+  #### This code is used to download the YouTube playlist by putting the link of video in code.
+  #### You can download all format of playlist video available on YouTube.
 
 
 
